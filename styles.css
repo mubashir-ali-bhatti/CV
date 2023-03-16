@@ -2,7 +2,9 @@ body{
     background-color:#e8e8ea;
 }
 hr{
-    height: 2px;
-    background-color: white;
-    border-style: none;
+    height: 0px;
+    border-style : dotted none none none;
+    width: 40px;
+    border-width: 5px;
+    border-color: #cecece;
 }
