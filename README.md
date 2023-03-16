@@ -1,2 +1,1 @@
-# CV
-This is my CV
+# CV This is my CV
